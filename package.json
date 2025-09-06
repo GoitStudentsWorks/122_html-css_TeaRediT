@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/suicide-squad-project-1/",
+    "build": "vite build --base=/122_html-css_TeaRediT/",
     "preview": "vite preview"
   },
   "devDependencies": {
